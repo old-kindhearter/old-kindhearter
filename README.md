@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @old-kindhearter
-- 👀 I’m interested in MachineLearing & NLP.
-- 🌱 I’m currently learning my graduation project, which about Aspect-Based Sentiment Alynasis(ABSA)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI+Education, and in particular Knowledge Tracing.
+- 🌱 I’m currently pursuing a postgraduate degree in SCNU.
+- 💞️ I’m interested and learning in the field of LLM, GNN and Causal Reasoning...
+- 📫 My email address is 1966450901@qq.com.
 
 <!---
 old-kindhearter/old-kindhearter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
